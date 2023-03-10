@@ -4,7 +4,6 @@ import './App.css';
 
 function App() {
 
-  console.log(process.env.REACT_APP_YOUTUBE)
   return (
     <div className="App">
      <h1> Testing from vandhana</h1>
